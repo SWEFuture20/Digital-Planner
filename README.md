@@ -1,1 +1,2 @@
 # Digital-Planner
+In this app, I will be displaying a digital planner that allows a person to write event in each hour. A user will be able to save events at certain time slots. I used the moment.js library for the date, time and hour. In this app, the tehnologies that I will be using is HTML, CSS, & Javascript (jQuery). Enjoy this app!
