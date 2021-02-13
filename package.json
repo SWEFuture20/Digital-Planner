@@ -1,0 +1,23 @@
+{
+  "name": "digital-planner",
+  "version": "1.0.0",
+  "description": "In this app, I will be displaying a digital planner that allows a person to write event in each hour. A user will be able to save events at certain time slots. I used the moment.js library for the date, time and hour. In this app, the tehnologies that I will be using is HTML, CSS, & Javascript (jQuery). Enjoy this app!",
+  "main": "index.js",
+  "dependencies": {
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SWEFuture20/Digital-Planner.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SWEFuture20/Digital-Planner/issues"
+  },
+  "homepage": "https://github.com/SWEFuture20/Digital-Planner#readme"
+}
